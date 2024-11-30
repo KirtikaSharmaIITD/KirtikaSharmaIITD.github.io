@@ -104,7 +104,11 @@ main {
     transition: color 0.3s;
 }
 
-social-links a:hover {
+.social-links i {
+    margin-right: 5px;
+}
+
+.social-links a:hover {
     color: #005bb5;
 }
 
