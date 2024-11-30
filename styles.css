@@ -15,7 +15,7 @@ header {
 
 .banner {
     background: linear-gradient(135deg, #e0eafc, #cfdef3); /* Subtle gradient for the banner */
-    padding: 40px 0;
+    padding: 20px 0; /* Reduced padding for less height */
     color: #333;
 }
 
