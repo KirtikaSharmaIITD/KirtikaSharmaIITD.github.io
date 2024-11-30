@@ -1,5 +1,0 @@
----
-title: Blogs
----
-
-* [Fall 2024 Machine Learning](https://www.linkedin.com/in/kirtika-s-229a9132/)
