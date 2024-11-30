@@ -1,0 +1,26 @@
+---
+title: Kirtika Sharma
+image: images/Kirtika.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://www.linkedin.com/in/kirtika-s-229a9132/
+    - icon: github
+      text: Github
+      href: https://www.linkedin.com/in/kirtika-s-229a9132/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kirtika-s-229a9132/
+    - icon: envelope
+      text: Email
+      href: mailto:kirtika.sharma.512@gmail.com
+    - icon: book
+      text: Google Scholar
+      href: https://www.linkedin.com/in/kirtika-s-229a9132/
+---
+
+PhD Scholar | Indian Institute of Technology Delhi | AI & Machine Learning | Data Science & Analytics | Project Scientist at IITD
