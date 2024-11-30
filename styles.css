@@ -5,6 +5,7 @@ body {
     background-color: #f5f7fa; /* Light, neutral background color */
     color: #333;
     line-height: 1.6;
+    font-weight: 300; /* Lighter font weight for body text */
 }
 
 header {
@@ -22,6 +23,7 @@ h1 {
     margin: 0;
     font-size: 32px;
     color: #333;
+    font-weight: 400; /* Slightly heavier than body for emphasis */
 }
 
 nav ul {
@@ -39,7 +41,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #555;
-    font-weight: 500;
+    font-weight: 400; /* Medium weight for navigation links */
     transition: color 0.3s;
 }
 
@@ -82,12 +84,14 @@ main {
     margin: 0;
     font-size: 24px;
     color: #0073e6;
+    font-weight: 400; /* Medium weight for headings */
 }
 
 .profile-info p {
     margin: 5px 0;
     font-size: 16px;
     color: #666;
+    font-weight: 300; /* Light weight for additional info */
 }
 
 .social-links a {
@@ -96,10 +100,11 @@ main {
     text-decoration: none;
     color: #0073e6;
     font-size: 14px;
+    font-weight: 300; /* Light weight for social links */
     transition: color 0.3s;
 }
 
-.social-links a:hover {
+social-links a:hover {
     color: #005bb5;
 }
 
@@ -110,6 +115,7 @@ main {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-weight: 300; /* Light weight for description text */
 }
 
 footer {
@@ -118,4 +124,5 @@ footer {
     background-color: #fff;
     border-top: 1px solid #ddd;
     margin-top: 20px;
+    font-weight: 300; /* Light weight for footer text */
 }
